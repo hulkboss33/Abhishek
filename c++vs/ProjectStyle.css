@@ -1,0 +1,25 @@
+
+
+a:hover{
+    background-color: hsl(0, 4%, 5%) ;
+    color:blue
+    
+}
+h1{
+    
+    background-color: pink;
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* h2{
+    background-color: crimson;
+    color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+} */
+
+/* h3{
+    background-color: chartreuse;
+    color: #000000;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+} */
